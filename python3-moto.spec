@@ -6,7 +6,7 @@ Summary:	Library that allows to easily mock out the boto library
 Summary(pl.UTF-8):	Biblioteka pozwalająca łatwo podstawiać atrapy biblioteki boto
 Name:		python3-moto
 Version:	2.3.2
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/moto/
